@@ -4,6 +4,7 @@
 - 🌱 Estudo ciencias da computação na faculdade Estacio
 - 🌱 Estudando typescripf, React e Desenvolvimento web  na udemy
 - 💬 borgeslucas0000@gmail.com
+- ♀️ Ele/Dele
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasborges06&show_icons=true&bg_color=00000000)
