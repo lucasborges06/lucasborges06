@@ -1,7 +1,8 @@
 ## Ola! Eu sou o Lucas Borges👋
  
-- 🔭 trabalhando com front-end
-- 🌱 Estudando typescripf e React
+- 🔭 trabalhando com front-end 
+- 🌱 Estudo ciencias da computação na faculdade Estacio
+- 🌱 Estudando typescripf, React e Desenvolvimento web  na udemy
 - 💬 borgeslucas0000@gmail.com
 -->
 
