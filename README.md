@@ -1,9 +1,11 @@
 ## Ola! Eu sou o Lucas Borges👋
  
-- 🔭 trabalhando com front-end 
+- 🔭 trabalhando na Prefeitura
 - 🌱 Estudo ciencias da computação na faculdade Estacio
 - 🌱 Estudando typescripf, React e Desenvolvimento web  na udemy
 - 💬 borgeslucas0000@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-borges-7654b1247/)
+- 
 - ♀️ Ele/Dele
 -->
 
@@ -15,6 +17,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  [![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 
   ##
 
