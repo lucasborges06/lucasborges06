@@ -28,6 +28,8 @@ Sou estudante de Ciência da Computação na Estácio e apaixonado por tecnologi
 
 ---
 
+
+
 ## 📊 GitHub Estatísticas
 
 <div align="center">
@@ -36,9 +38,20 @@ Sou estudante de Ciência da Computação na Estácio e apaixonado por tecnologi
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasborges06&theme=github-dark&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborges06&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
 
 </div>
+
+
+<div align="center">
+
+### 🎧 Música & 🎯 Skills
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/borgeslucas0000)
+&nbsp;&nbsp;
+
+
+</div>
+
 
 
 
