@@ -44,7 +44,7 @@ Sou estudante de Ciência da Computação na Estácio e apaixonado por tecnologi
 
 <div align="center">
 
-### 🎧 Música & 🎯 Skills
+### 🎧 Música 
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/borgeslucas0000)
 &nbsp;&nbsp;
