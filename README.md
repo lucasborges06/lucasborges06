@@ -37,6 +37,12 @@ Sou estudante de Ciência da Computação na Estácio e apaixonado por tecnologi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasborges06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasborges06&theme=github-dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborges06&layout=compact&theme=github_dark&hide_border=true&card_width=320" />
+
+  **<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=lucasborges06&color=brightgreen" alt="Contagem de visitantes" />
+  </p>**
+**<img src="https://github-profile-trophy.vercel.app/?username=lucasborges06&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />**
 
 
 </div>
