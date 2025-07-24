@@ -4,7 +4,7 @@
   Estudante de Ciência da Computação | Desenvolvedor em formação | Entusiasta de tecnologia
 </p>
 
-
+---
 
 ## 👨‍💻 Sobre mim
 
