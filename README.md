@@ -12,6 +12,7 @@ Sou estudante de Ciência da Computação na Estácio e apaixonado por tecnologi
 
 🎯 Foco em: aprendizado contínuo, construção de soluções funcionais e colaboração em equipe.
 
+---
 
 
 ## 🚀 Tecnologias que domino ou estou aprendendo
