@@ -44,7 +44,7 @@ Sou estudante de Ciência da Computação na Estácio e apaixonado por tecnologi
   **<p align="center">
     <img src="https://komarev.com/ghpvc/?username=lucasborges06&color=brightgreen" alt="Contagem de visitantes" />
   </p>**
-**<img src="https://github-profile-trophy.vercel.app/?username=lucasborges06&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />**
+
 
 
 </div>
