@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas Borges! 👋</h1>
+<h1 align="center">Olá, eu sou o Lucas Borges! 👋</h1
 
 <p align="center">
   Estudante de Ciência da Computação | Desenvolvedor em formação | Entusiasta de tecnologia
