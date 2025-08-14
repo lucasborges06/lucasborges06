@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre 
+## 👨‍💻 Sobre mim
 
 
 Sou estudante de Ciência da Computação na Estácio e apaixonado por tecnologia. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente. Atualmente focado em desenvolvimento web, mobile e bancos de dados.
